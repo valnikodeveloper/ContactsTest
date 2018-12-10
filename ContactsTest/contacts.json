@@ -1,0 +1,115 @@
+{
+"people": [
+    
+        {
+            "contactID": "1",
+            "firstName": "Serg",
+            "lastName": "New",
+            "phoneNumber": "123456789",
+            "streetAddress1":"One",
+            "streetAddress2":"Two",
+            "city":"Three",
+            "state":"Five",
+            "zipCode":"677575"
+        },
+        {
+            "contactID": "2",
+            "firstName": "Danii",
+            "lastName": "Verso",
+            "phoneNumber": "999992992",
+            "streetAddress1":"Six",
+            "streetAddress2":"Seven",
+            "city":"Eight",
+            "state":"Ten",
+            "zipCode":"777777"
+        },
+        {
+            "contactID": "3",
+            "firstName": "Alex",
+            "lastName": "Novitsky",
+            "phoneNumber": "999999999",
+            "streetAddress1":"Eleven",
+            "streetAddress2":"Twelve",
+            "city":"Thirteen",
+            "state":"Fourteen",
+            "zipCode":"888888"
+        },
+        {
+            "contactID": "4",
+            "firstName": "Maru",
+            "lastName": "Novitskaya",
+            "phoneNumber": "100000000",
+            "streetAddress1":"Fifteen",
+            "streetAddress2":"Sixteen",
+            "city":"City4",
+            "state":"state1",
+            "zipCode":"9999999"
+        },
+        {
+            "contactID": "6",
+            "firstName": "Annai",
+            "lastName": "Jeleznyak",
+            "phoneNumber": "0000000001",
+            "streetAddress1":"Seventeen",
+            "streetAddress2":"Eighteen",
+            "city":"Nineteen",
+            "state":"Twenty",
+            "zipCode":"111111111"
+        },
+        {
+            "contactID": "7",
+            "firstName": "Ivat",
+            "lastName": "Slucko",
+            "phoneNumber": "2222222222",
+            "streetAddress1":"Twenty one",
+            "streetAddress2":"Twenty two",
+            "city":"Twenty three",
+            "state":"State 5",
+            "zipCode":"3333333"
+        },
+        {
+            "contactID": "8",
+            "firstName": "Arto",
+            "lastName": "Ivancha",
+            "phoneNumber": "99999333334",
+            "streetAddress1":"Street one",
+            "streetAddress2":"Street two",
+            "city":"Secret",
+            "state":"Secret two",
+            "zipCode":"3333333"
+        },
+        {
+            "contactID": "9",
+            "firstName": "Johsh",
+            "lastName": "Dose",
+            "phoneNumber": "9999910000",
+            "streetAddress1":"Address2",
+            "streetAddress2":"Address3",
+            "city":"City33",
+            "state":"Again",
+            "zipCode":"67777787"
+        },
+        {
+            "contactID": "9",
+            "firstName": "Alis",
+            "lastName": "Goldsa",
+            "phoneNumber": "999992992",
+            "streetAddress1":"Address4",
+            "streetAddress2":"Address5",
+            "city":"City2",
+            "state":"State5",
+            "zipCode":"8888888"
+        },
+        {
+            "contactID": "10",
+            "firstName": "Albina",
+            "lastName": "Turi",
+            "phoneNumber": "98989898989",
+            "streetAddress1":"Street11",
+            "streetAddress2":"Street22",
+            "city":"City5",
+            "state":"State6",
+            "zipCode":"55555555"
+        }
+  ]
+}
