@@ -4,7 +4,7 @@
 //  Here is Class of table which is responsible
 //  for detailed description of contact
 //  Created by Valeriy on 25/11/2018.
-//  Copyright © 2018 Valeriy Nikolaev. All rights reserved.
+//  Copyright © 2018-2019 Valeriy Nikolaev. All rights reserved.
 
 
 import UIKit
@@ -22,7 +22,7 @@ class InDetailTableVC: UITableViewController,UpdCViewDelegTextF {
     
     //A contact which we recive from ContactListVC
     let contactInDetailWP = ContactInDetailWrapper()
-    var delegateViewUpdate:UpdateContactViewDelegate?
+    weak var delegateViewUpdate:UpdateContactViewDelegate?
     
     //States = 0 - New , 1 - Save , 2 - Done
     var rightButtonState = 0

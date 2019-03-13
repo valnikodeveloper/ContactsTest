@@ -3,7 +3,7 @@
 //  ContactsTest
 //
 //  Created by Valeriy on 25/11/2018.
-//  Copyright © 2018 Valeriy Nikolaev. All rights reserved.
+//  Copyright © 2018-2019 Valeriy Nikolaev. All rights reserved.
 
 import UIKit
 import CoreData

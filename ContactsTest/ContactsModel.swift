@@ -6,7 +6,7 @@
 //  2. Operation with CoreData (data model)
 //
 //  Created by Valeriy on 25/11/2018.
-//  Copyright © 2018 Valeriy Nikolaev. All rights reserved.
+//  Copyright © 2018-2019 Valeriy Nikolaev. All rights reserved.
 //Model
 
 import UIKit
@@ -28,7 +28,7 @@ struct ContactInDetail {
 class ContactsModel {
     
     private var contactsDictionary:[[String: Any]]?
-    var delegateActions:CoreUpdaterDelegate?
+    weak var delegateActions:CoreUpdaterDelegate?
     
     //MARK: Only deletes from storage
     private  func purgeOfStorage() {

@@ -5,7 +5,7 @@
 //  which is responsible for one field from
 //  InDetailTableVC
 //  Created by Valeriy on 25/11/2018.
-//  Copyright © 2018 Valeriy Nikolaev. All rights reserved.
+//  Copyright © 2018-2019 Valeriy Nikolaev. All rights reserved.
 
 import UIKit
 
@@ -14,7 +14,7 @@ class CellViewForDetails: UITableViewCell,UITextFieldDelegate {
     @IBOutlet weak var textFieldDetails: UITextField!
     var contactsInDetailWP:ContactInDetailWrapper!
     var index:Int! = 0
-    var contactDelegate:UpdCViewDelegTextF?
+    weak var contactDelegate:UpdCViewDelegTextF?
     //Description label which is close to field.
     @IBOutlet weak var decriptionLabel: UILabel?
     
